@@ -1,0 +1,15 @@
+C:\Users\Akvile\Documents\netproject\bin\Debug\net6.0\netproject.exe
+C:\Users\Akvile\Documents\netproject\bin\Debug\net6.0\netproject.deps.json
+C:\Users\Akvile\Documents\netproject\bin\Debug\net6.0\netproject.runtimeconfig.json
+C:\Users\Akvile\Documents\netproject\bin\Debug\net6.0\netproject.dll
+C:\Users\Akvile\Documents\netproject\bin\Debug\net6.0\netproject.pdb
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.csproj.AssemblyReference.cache
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.AssemblyInfoInputs.cache
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.AssemblyInfo.cs
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.csproj.CoreCompileInputs.cache
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.dll
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\refint\netproject.dll
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.pdb
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\netproject.genruntimeconfig.cache
+C:\Users\Akvile\Documents\netproject\obj\Debug\net6.0\ref\netproject.dll
