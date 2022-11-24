@@ -1,0 +1,15 @@
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/bin/Debug/net6.0/assigmentAlgorithms
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/bin/Debug/net6.0/assigmentAlgorithms.deps.json
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/bin/Debug/net6.0/assigmentAlgorithms.runtimeconfig.json
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/bin/Debug/net6.0/assigmentAlgorithms.dll
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/bin/Debug/net6.0/assigmentAlgorithms.pdb
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.csproj.AssemblyReference.cache
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.AssemblyInfoInputs.cache
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.AssemblyInfo.cs
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.csproj.CoreCompileInputs.cache
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.dll
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/refint/assigmentAlgorithms.dll
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.pdb
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/assigmentAlgorithms.genruntimeconfig.cache
+/Users/akvile/Documents/macTesting/assigmentAlgorithms/assigmentAlgorithms/obj/Debug/net6.0/ref/assigmentAlgorithms.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{99B1476C-D282-4A84-B14D-F951DF864AD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assigmentAlgorithms/Program.cs">
+    <Files>
+      <File FileName="assigmentAlgorithms/Program.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="assigmentAlgorithms" expanded="True">
+            <Node name="assigmentAlgorithms" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.assigmentAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
