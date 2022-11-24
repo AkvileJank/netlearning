@@ -3,37 +3,34 @@
     static void Main(string[] args)
     {
         Console.WriteLine("Enter first number:");
-        string snum1 = Console.ReadLine();
+        double num1 = Double.Parse(Console.ReadLine());
         Console.WriteLine("Enter second number:");
-        string snum2 = Console.ReadLine();
-        double num1 = Double.Parse(snum1);
-        double num2 = Double.Parse(snum2);
+        double num2 = Double.Parse(Console.ReadLine());
         Console.WriteLine("Enter math operation symbol (* - multiplication, / - division, % - modulo, + - addition, - - subtraction)");
         string symbol = Console.ReadLine();
-        
 
-        if(symbol == "*")
+
+        if (symbol == "*")
         {
             double multipl = num1 * num2;
             Console.WriteLine(num1 + "*" + num2 + "=" + multipl);
-
         }
 
-        else if(symbol == "/")
+        else if (symbol == "/")
         {
-            if(num2 == 0)
-                {
+            if (num2 == 0)
+            {
                 Console.WriteLine("Operation is not valid");
-                }
+            }
             else
             {
                 double divis = num1 / num2;
                 Console.WriteLine(num1 + "/" + num2 + "=" + divis);
             }
-            
-         }
 
-        else if(symbol == "%")
+        }
+
+        else if (symbol == "%")
         {
             if (num2 == 0)
             {
