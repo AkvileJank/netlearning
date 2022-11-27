@@ -9,57 +9,34 @@
         Console.WriteLine("Enter math operation symbol (* - multiplication, / - division, % - modulo, + - addition, - - subtraction)");
         string symbol = Console.ReadLine();
 
+        double result = 0;
 
         if (symbol == "*")
-        {
-            double multipl = num1 * num2;
-            Console.WriteLine(num1 + "*" + num2 + "=" + multipl);
-        }
-
+            result = num1 * num2;
         else if (symbol == "/")
         {
             if (num2 == 0)
-            {
                 Console.WriteLine("Operation is not valid");
-            }
             else
-            {
-                double divis = num1 / num2;
-                Console.WriteLine(num1 + "/" + num2 + "=" + divis);
-            }
-
+                result = num1 / num2;
         }
-
         else if (symbol == "%")
         {
             if (num2 == 0)
-            {
                 Console.WriteLine("Operation is not valid");
-            }
             else
-            {
-                double mod = num1 % num2;
-                Console.WriteLine(num1 + "%" + num2 + "=" + mod);
-            }
+                result = num1 % num2;
         }
-
         else if (symbol == "+")
-        {
-            double add = num1 + num2;
-            Console.WriteLine(num1 + "+" + num2 + "=" + add);
-
-        }
-
+            result = num1 + num2;
         else if (symbol == "-")
-        {
-            double sub = num1 - num2;
-            Console.WriteLine(num1 + "-" + num2 + "=" + sub);
-        }
-
+            result = num1 - num2;
         else
-        {
             Console.WriteLine("Operation symbol is not valid");
-        }
+
+        Console.WriteLine(num1 + symbol + num2 + "=" + result);
+
+
 
 
 
