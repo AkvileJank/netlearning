@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akvile/Documents/macTesting/assigmentAlgorithms2/assigmentAlgorithms2/assigmentAlgorithms2.csproj",
+      "projectUniqueName": "/Users/akvile/Documents/2ndcomputer/netlearning/assigmentAlgorithms2/assigmentAlgorithms2/assigmentAlgorithms2.csproj",
       "projectName": "assigmentAlgorithms2",
-      "projectPath": "/Users/akvile/Documents/macTesting/assigmentAlgorithms2/assigmentAlgorithms2/assigmentAlgorithms2.csproj",
+      "projectPath": "/Users/akvile/Documents/2ndcomputer/netlearning/assigmentAlgorithms2/assigmentAlgorithms2/assigmentAlgorithms2.csproj",
       "packagesPath": "/Users/akvile/.nuget/packages/",
-      "outputPath": "/Users/akvile/Documents/macTesting/assigmentAlgorithms2/assigmentAlgorithms2/obj/",
+      "outputPath": "/Users/akvile/Documents/2ndcomputer/netlearning/assigmentAlgorithms2/assigmentAlgorithms2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akvile/.nuget/NuGet/NuGet.Config"
