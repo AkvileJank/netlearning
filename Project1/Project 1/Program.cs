@@ -89,17 +89,19 @@
         double numb2 = Double.Parse(num2);
 
         double addition = numb1 + numb2;
-        Console.WriteLine("Addition: " + addition);
+        Console.WriteLine(numb1 + "+" + numb2 + "=" + addition);
 
         double subtraction = numb1 - numb2;
-        Console.WriteLine("Subtraction: " + subtraction);
+        Console.WriteLine(numb1 + "-" + numb2 + "=" + subtraction);
 
         double multipliation = numb1 * numb2;
-        Console.WriteLine("Multiplication: " + multipliation);
+        Console.WriteLine(numb1 + "*" + numb2 + "=" + multipliation);
 
         double division = numb1 / numb2;
-        Console.WriteLine("Division: " + division);
+        division = Math.Round(division, 2);// round in two decimal numbers
+        Console.WriteLine(numb1 + "/" + numb2 + "=" + division);
 
+        
 
 
 

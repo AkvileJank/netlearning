@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "kcsd+y7p34AQObYyTAuEkImqtXTejIKUKy1e6cGkxVm8FaISGvA5XQxhllh1ld4uzBlGjlWiwXh9ig26eYLiJw==",
   "success": true,
   "projectFilePath": "/Users/akvile/Documents/2ndcomputer/netlearning/assigmentAlgorithms2/assigmentAlgorithms2/assigmentAlgorithms2.csproj",
+=======
+  "dgSpecHash": "OOgGwV2YEBE9I+JCI/ZyXRHRvhytv53FaavmOo97U7cwdamTyycizALi19+upLlumuKsXukHTHvbSxQi/IchLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akvile\\Documents\\netproject\\assigmentAlgorithms2\\assigmentAlgorithms2\\assigmentAlgorithms2.csproj",
+>>>>>>> 96334877efdbdb4cbcfbd210d2aaeeb80c72a496
   "expectedPackageFiles": [],
   "logs": []
 }

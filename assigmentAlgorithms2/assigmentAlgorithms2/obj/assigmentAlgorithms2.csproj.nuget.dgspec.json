@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/akvile/Documents/2ndcomputer/netlearning/assigmentAlgorithms2/assigmentAlgorithms2/assigmentAlgorithms2.csproj": {}
   },
   "projects": {
@@ -12,14 +13,29 @@
         "projectPath": "/Users/akvile/Documents/2ndcomputer/netlearning/assigmentAlgorithms2/assigmentAlgorithms2/assigmentAlgorithms2.csproj",
         "packagesPath": "/Users/akvile/.nuget/packages/",
         "outputPath": "/Users/akvile/Documents/2ndcomputer/netlearning/assigmentAlgorithms2/assigmentAlgorithms2/obj/",
+=======
+    "C:\\Users\\Akvile\\Documents\\netproject\\assigmentAlgorithms2\\assigmentAlgorithms2\\assigmentAlgorithms2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Akvile\\Documents\\netproject\\assigmentAlgorithms2\\assigmentAlgorithms2\\assigmentAlgorithms2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akvile\\Documents\\netproject\\assigmentAlgorithms2\\assigmentAlgorithms2\\assigmentAlgorithms2.csproj",
+        "projectName": "assigmentAlgorithms2",
+        "projectPath": "C:\\Users\\Akvile\\Documents\\netproject\\assigmentAlgorithms2\\assigmentAlgorithms2\\assigmentAlgorithms2.csproj",
+        "packagesPath": "C:\\Users\\Akvile\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Akvile\\Documents\\netproject\\assigmentAlgorithms2\\assigmentAlgorithms2\\obj\\",
+>>>>>>> 96334877efdbdb4cbcfbd210d2aaeeb80c72a496
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/akvile/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Akvile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
