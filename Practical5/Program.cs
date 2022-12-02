@@ -46,7 +46,7 @@ class Practical5
             if (negativenumber < 0)
             {
                 isNegative = true;
-                Console.WriteLine(negativenumber + ", ");
+                Console.WriteLine(negativenumber);
             }
         }
         if (!isNegative)
