@@ -1,0 +1,15 @@
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/bin/Debug/net6.0/Practical6
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/bin/Debug/net6.0/Practical6.deps.json
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/bin/Debug/net6.0/Practical6.runtimeconfig.json
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/bin/Debug/net6.0/Practical6.dll
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/bin/Debug/net6.0/Practical6.pdb
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.csproj.AssemblyReference.cache
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.AssemblyInfoInputs.cache
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.AssemblyInfo.cs
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.csproj.CoreCompileInputs.cache
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.dll
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/refint/Practical6.dll
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.pdb
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/Practical6.genruntimeconfig.cache
+/Users/akvile/Documents/2ndcomputer/netlearning/Practical6/Practical6/obj/Debug/net6.0/ref/Practical6.dll
