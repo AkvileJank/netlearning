@@ -13,7 +13,7 @@ class PhoneNumberTask
 
         if(match)
         {
-            match = Regex.Match(phoneNum, @"\+370[0-9]{8}$").Success || Regex.Match(phoneNum, @"\+370 [0-9]{8}$").Success || Regex.Match(phoneNum, @"\[0-9]{8}$").Success;
+            match = Regex.Match(phoneNum, @"[\+370]{0,1} {0,1}[0-9]{8}$").Success;
             Console.WriteLine("Phone number provided is correct");
         }
 
