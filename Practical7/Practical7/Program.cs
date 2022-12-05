@@ -7,26 +7,19 @@ class PhoneNumberTask
 
         Console.WriteLine("Enter your phone number:");
         string phoneNum = Console.ReadLine();
-        //var match = Regex.Match(phoneNum, ((@"\+370[0-9]{8}$") || (@"\+370 [0-9]{8}$") || (@"[0-9]{8}$"));
 
-        bool match = true;
-
-        if(match)
+       bool match = Regex.Match(phoneNum, @"(\+370){0,1} {0,1}[0-9]{8}$").Success;
+        if (match)
         {
-            match = Regex.Match(phoneNum, @"[\+370]{0,1} {0,1}[0-9]{8}$").Success;
+            match = Regex.Match(phoneNum, @"(\+370){0,1} {0,1}[0-9]{8}$").Success;
             Console.WriteLine("Phone number provided is correct");
         }
 
         else
         {
-            Console.WriteLine("Phone number provided not correct");
+            Console.WriteLine("Phone number provided is not correct");
         }
         
-
-
-
-
-
 
     }
 }
