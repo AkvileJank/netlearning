@@ -7,7 +7,7 @@ class PhoneNumberTask
 
        Console.WriteLine("Enter your phone number:");
        string phoneNum = Console.ReadLine();
-       bool match = Regex.Match(phoneNum, @"(\+370){0,1} {0,1}[0-9]{8}$").Success;
+       bool match = Regex.Match(phoneNum, @"^(\+370){0,1} {0,1}6[0-9]{7}$").Success;
         if (match)
         {
             Console.WriteLine("Phone number provided is correct");

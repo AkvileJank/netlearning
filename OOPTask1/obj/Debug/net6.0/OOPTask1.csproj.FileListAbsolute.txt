@@ -1,0 +1,15 @@
+C:\Users\Akvile\Documents\netproject\OOPTask1\bin\Debug\net6.0\OOPTask1.exe
+C:\Users\Akvile\Documents\netproject\OOPTask1\bin\Debug\net6.0\OOPTask1.deps.json
+C:\Users\Akvile\Documents\netproject\OOPTask1\bin\Debug\net6.0\OOPTask1.runtimeconfig.json
+C:\Users\Akvile\Documents\netproject\OOPTask1\bin\Debug\net6.0\OOPTask1.dll
+C:\Users\Akvile\Documents\netproject\OOPTask1\bin\Debug\net6.0\OOPTask1.pdb
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.csproj.AssemblyReference.cache
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.AssemblyInfoInputs.cache
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.AssemblyInfo.cs
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.csproj.CoreCompileInputs.cache
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.dll
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\refint\OOPTask1.dll
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.pdb
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\OOPTask1.genruntimeconfig.cache
+C:\Users\Akvile\Documents\netproject\OOPTask1\obj\Debug\net6.0\ref\OOPTask1.dll
