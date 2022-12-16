@@ -19,7 +19,7 @@ class Person
 {
     private string name;
     private string surname;
-    //birthDateString = "22 / 11 / 2000";
+    
 
     public string Name
     {

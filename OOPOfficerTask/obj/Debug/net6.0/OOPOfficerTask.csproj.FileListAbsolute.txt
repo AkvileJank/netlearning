@@ -1,0 +1,15 @@
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\bin\Debug\net6.0\OOPOfficerTask.exe
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\bin\Debug\net6.0\OOPOfficerTask.deps.json
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\bin\Debug\net6.0\OOPOfficerTask.runtimeconfig.json
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\bin\Debug\net6.0\OOPOfficerTask.dll
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\bin\Debug\net6.0\OOPOfficerTask.pdb
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.csproj.AssemblyReference.cache
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.AssemblyInfoInputs.cache
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.AssemblyInfo.cs
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.csproj.CoreCompileInputs.cache
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.dll
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\refint\OOPOfficerTask.dll
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.pdb
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\OOPOfficerTask.genruntimeconfig.cache
+C:\Users\Akvile\Documents\netproject\OOPOfficerTask\obj\Debug\net6.0\ref\OOPOfficerTask.dll
