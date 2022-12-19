@@ -64,7 +64,8 @@ namespace OfficerTask
         }
         public override string ToString()
         {
-            string details = "Name: " + name + " ; " + "Surname: " + surname + " ; " + "OfficerID: " + officerId + " ; " + "Working district: " + workingDistrict + " ; " + " Crimes solved:" + crimesSolved;
+            string details = "Name: " + name + " ; " + "Surname: " + surname + " ; " + "OfficerID: " + officerId
+                + " ; " + "Working district: " + workingDistrict + " ; " + " Crimes solved:" + crimesSolved;
             return details;
         }
 
@@ -88,15 +89,16 @@ namespace OfficerTask
 
         public static void FindJohn(Officer[] distric99)
         {
-            int namedJohn = 0;
+            bool namedJohn = false;
             for (int i = 0; i < distric99.Length; i++)
             {
                 if (distric99[i].Name == "John")
                 {
-                    namedJohn++;
+                    namedJohn = true;
+                    break;
                 }
             }
-            if (namedJohn > 0)
+            if (namedJohn)
             {
                 Console.WriteLine("There is officer named John");
             }
