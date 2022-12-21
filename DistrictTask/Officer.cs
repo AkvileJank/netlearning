@@ -58,8 +58,10 @@ namespace DistrictTask
         public override string ToString()
         {
             string details = "Name: " + name + " ; " + "Surname: " + surname + " ; " + "OfficerID: " + officerId
-                + " ; " + " ; " + " Crimes solved:" + crimesSolved;
+                + " ; " + " Crimes solved: " + crimesSolved + "\n";
             return details;
         }
+
+
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Akvile\Documents\netproject\DistrictTask\bin\Debug\net6.0\DistrictTask.exe
+C:\Users\Akvile\Documents\netproject\DistrictTask\bin\Debug\net6.0\DistrictTask.deps.json
+C:\Users\Akvile\Documents\netproject\DistrictTask\bin\Debug\net6.0\DistrictTask.runtimeconfig.json
+C:\Users\Akvile\Documents\netproject\DistrictTask\bin\Debug\net6.0\DistrictTask.dll
+C:\Users\Akvile\Documents\netproject\DistrictTask\bin\Debug\net6.0\DistrictTask.pdb
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.csproj.AssemblyReference.cache
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.AssemblyInfoInputs.cache
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.AssemblyInfo.cs
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.csproj.CoreCompileInputs.cache
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.dll
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\refint\DistrictTask.dll
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.pdb
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\DistrictTask.genruntimeconfig.cache
+C:\Users\Akvile\Documents\netproject\DistrictTask\obj\Debug\net6.0\ref\DistrictTask.dll
