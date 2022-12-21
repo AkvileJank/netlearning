@@ -8,6 +8,8 @@ namespace DistrictTask
         private string surname;
         private int officerId;
         private int crimesSolved;
+
+        public Officer() { }
         public Officer(string objName, string objSurname, int objOfficerId, int objCrimesSolved)
         {
             this.name = objName;
