@@ -32,31 +32,20 @@
 
 
             district2.RemoveOfficer();
-            Console.WriteLine("Officer Kendra in district 2 was removed. Updated District 2:");
+            Console.WriteLine(district2.ToString());
+
+            district2.AddOfficer();
             Console.WriteLine(district2.ToString());
 
             Console.WriteLine("District 1 average level: " + district1.AverageLvl());
             Console.WriteLine("District 2 average level: " + district2.AverageLvl());
 
-            District[] arrOfDistricts = new District[2];
-            arrOfDistricts[0] = district1;
-            arrOfDistricts[1] = district2;
+            District.CreateDistrictArray(district1, district2);
 
-            float bothDistrictsLenght = district1arr.Length + district1arr.Length;
+            float bothDistrictsLenght = district1arr.Length + district2arr.Length;
             Console.WriteLine("Total number of officers in both districts: " + bothDistrictsLenght);
 
-            float averageOfBoth = district1.LvlSum() + district2.LvlSum() / bothDistrictsLenght;
-            Console.WriteLine("Average level of both districts: " + averageOfBoth);
-
-
-            if (district1.AverageLvl() > district2.AverageLvl())
-            {
-                Console.WriteLine("District 1 officers' level is higher. District 1 is better");
-            }
-            else
-            {
-                Console.WriteLine("District 2 officers' level is higher. District 2 is better");
-            }
+            District.AverageBoth(district1, district2, bothDistrictsLenght);
 
             district1 = null;
             Console.WriteLine(district1);

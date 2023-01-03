@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akvile\\Documents\\netproject\\DistrictTask\\DistrictTask.csproj": {}
+    "/Users/akvile/Documents/2ndcomputer/netlearning/DistrictTask/DistrictTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akvile\\Documents\\netproject\\DistrictTask\\DistrictTask.csproj": {
+    "/Users/akvile/Documents/2ndcomputer/netlearning/DistrictTask/DistrictTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akvile\\Documents\\netproject\\DistrictTask\\DistrictTask.csproj",
+        "projectUniqueName": "/Users/akvile/Documents/2ndcomputer/netlearning/DistrictTask/DistrictTask.csproj",
         "projectName": "DistrictTask",
-        "projectPath": "C:\\Users\\Akvile\\Documents\\netproject\\DistrictTask\\DistrictTask.csproj",
-        "packagesPath": "C:\\Users\\Akvile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akvile\\Documents\\netproject\\DistrictTask\\obj\\",
+        "projectPath": "/Users/akvile/Documents/2ndcomputer/netlearning/DistrictTask/DistrictTask.csproj",
+        "packagesPath": "/Users/akvile/.nuget/packages/",
+        "outputPath": "/Users/akvile/Documents/2ndcomputer/netlearning/DistrictTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Akvile\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/akvile/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
