@@ -1,7 +1,7 @@
 ﻿
 namespace LawyerTask
 {
-    class Person
+    public class Person
     {
         private string name;
         private string surname;

@@ -44,9 +44,8 @@ namespace LawyerTask
         }
         public override string ToString()
         {
-            string details = "Name: " + this.Name + " Surname: " + this.Surname +
-                " OfficerID: " + this.officerId + " Crimes solved: " + this.crimesSolved + "\n";
-            return details;
+            string details = " OfficerID: " + this.officerId + " Crimes solved: " + this.crimesSolved + "\n";
+            return base.ToString + details;
         }
 
 
