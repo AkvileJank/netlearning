@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace LawyerTask
 {
     class Officer : Person
@@ -7,8 +7,10 @@ namespace LawyerTask
         private int crimesSolved;
 
         public Officer() { }
-        public Officer(string name, string surname, int officerId, int crimesSolved) : base(name, surname) 
+        public Officer(string name, string surname, int officerId, int crimesSolved) : base(name, surname)
         {
+            base.Name = name;
+            base.Surname = surname;
             this.officerId = officerId;
             this.crimesSolved = crimesSolved;
         }
@@ -42,8 +44,8 @@ namespace LawyerTask
         }
         public override string ToString()
         {
-            string details = "Name: " + this.Name + "Surname: " + this.Surname +
-                "OfficerID: " + this.OfficerId + " Crimes solved: " + this.CrimesSolved;
+            string details = "Name: " + this.Name + " Surname: " + this.Surname +
+                " OfficerID: " + this.officerId + " Crimes solved: " + this.crimesSolved + "\n";
             return details;
         }
 

@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace LawyerTask
 {
     class District
@@ -17,15 +16,31 @@ namespace LawyerTask
             this.districtId = districtId;
             this.officersInTheDistrict = officersInTheDistrict;
         }
-        public string Title { get; set; }
-        public string City { get; set; }
-        public string DistrictId { get; set; }
-        public Officer[] OfficersInTheDistrict { get; set; }
+        public string Title
+        {
+            get { return this.title; }
+            set { this.title = value; }
+        }
+        public string City
+        {
+            get { return this.city; }
+            set { this.city = value; }
+        }
+        public int DistrictId
+        {
+            get { return this.districtId; }
+            set { this.districtId = value; }
+        }
+        public Officer[] OfficersInTheDistrict
+        {
+            get { return this.officersInTheDistrict; }
+            set { this.officersInTheDistrict = value; }
+        }
 
         public override string ToString()
         {
-            string details = "Title:\n" + title + "\n" + "City:\n" + city + "\n" + "DistrictID:\n" + districtId
-                + "\n" + "Officers:\n";
+            string details = "Title:\n" + title + "\n" + "City:\n" + city + "\n" +
+                "DistrictID:\n" + districtId + "\n" + "Officers:\n";
 
             foreach (Officer officer in officersInTheDistrict)
             {
@@ -54,14 +69,13 @@ namespace LawyerTask
             return true;
         }
 
-        public bool AddOfficer()
+        public bool AddCreatedOfficer(Officer officer)
         {
             for (int i = 0; i < officersInTheDistrict.Length; i++)
             {
                 if (officersInTheDistrict[i] == null)
                 {
-                    Officer addedOfficer = new Officer("Mike", "Solovan", 0004, 60);
-                    officersInTheDistrict[i] = addedOfficer;
+                    officersInTheDistrict[i] = officer;
                     break;
                 }
             }
@@ -86,26 +100,12 @@ namespace LawyerTask
             return lvlSum;
         }
 
-        public float AverageLvl()
+        public float AvgLevelInDistrict()
         {
             float averageLvl = this.LvlSum() / officersInTheDistrict.Length;
             return averageLvl;
         }
 
-        public static void AverageBoth(District district1, District district2, float bothDistrictsLenght)
-        {
-            float averageOfBoth = (district1.LvlSum() + district2.LvlSum()) / bothDistrictsLenght;
-            Console.WriteLine("Average level of both districts: " + averageOfBoth);
-
-            if (district1.AverageLvl() > district2.AverageLvl())
-            {
-                Console.WriteLine("District 1 officers' level is higher. District 1 is better");
-            }
-            else
-            {
-                Console.WriteLine("District 2 officers' level is higher. District 2 is better");
-            }
-        }
     }
 }
 

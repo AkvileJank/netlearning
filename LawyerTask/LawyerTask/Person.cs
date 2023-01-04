@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace LawyerTask
 {
     class Person
@@ -16,13 +16,21 @@ namespace LawyerTask
             this.surname = surname;
         }
 
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        public string Name
+        {
+            get { return this.name; }
+            set { this.name = value; }
+        }
+        public string Surname
+        {
+            get { return this.surname; }
+            set { this.surname = value; }
+        }
 
 
         public virtual string ToString()
         {
-            string details = "Name: " + this.name + "Surname: " + this.surname;
+            string details = "Name: " + this.name + " Surname: " + this.surname;
             return details;
         }
 

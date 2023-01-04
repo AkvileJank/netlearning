@@ -1,0 +1,15 @@
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.csproj.AssemblyReference.cache
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.AssemblyInfoInputs.cache
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.AssemblyInfo.cs
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.csproj.CoreCompileInputs.cache
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\bin\Debug\net6.0\LawyerTask.exe
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\bin\Debug\net6.0\LawyerTask.deps.json
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\bin\Debug\net6.0\LawyerTask.runtimeconfig.json
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\bin\Debug\net6.0\LawyerTask.dll
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\bin\Debug\net6.0\LawyerTask.pdb
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.dll
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\refint\LawyerTask.dll
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.pdb
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\LawyerTask.genruntimeconfig.cache
+C:\Users\Akvile\Documents\netproject\LawyerTask\LawyerTask\obj\Debug\net6.0\ref\LawyerTask.dll
